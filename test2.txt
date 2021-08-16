@@ -1,0 +1,110 @@
+appended textappended textappended textappended textappended textappended textappended textappended textappended textappended textappended text
+appended text
+appended text
+appended text
+appended text
+appended text
+appended text
+appended text
+appended text
+appended text
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text 0.200000
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+appended text [[ 0.6729]
+ [ 0.8843]
+ [-0.0295]
+ [ 1.    ]]
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
+0.672913, 0.884285
